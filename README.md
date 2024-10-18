@@ -17,7 +17,7 @@ Seleciona o id main-header e atribui-lhe uma cor de fundo.
 Altera a cor do texto de todos os elementos .highlight.
 ##### Combinadores:
 
-Seleciona todos os elementos li que são filhos diretos de .navigation utilizando o combinador de filhos (>).
+Seleciona todos os elementos ul que são filhos diretos de .navigation utilizando o combinador de filhos (>).
 
 Seleciona todos os links (a) dentro de .sidebar utilizando o combinador descendente.
 
