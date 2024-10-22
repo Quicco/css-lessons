@@ -1,0 +1,17 @@
+/*--- Flexbox ---*/
+.flex-container {
+  background-color: beige;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  align-content: center;
+}
+
+
+@media(max-width: 300px) {
+  .flex-container {
+    flex-shrink: 1;
+  }
+}
